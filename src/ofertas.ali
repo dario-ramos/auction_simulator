@@ -1,0 +1,154 @@
+V "GNAT Lib v4.2"
+P SS ZX
+R nnnnnnvvnnnnnnnvnvnvvvnnnnnnnnnnnnvnvvvnnnnnvnnnnnnnnnnvnnnnnv1nv2nnnnnv1+nn
+
+U ofertas%b		ofertas.adb		d85b91df PK
+W ada%s			ada.ads			ada.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W direccion_subasta%s	direccion_subasta.adb	direccion_subasta.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.string_ops%s	s-strops.adb		s-strops.ali
+W system.string_ops_concat_3%s  s-sopco3.adb	s-sopco3.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+W system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+
+U ofertas%s		ofertas.ads		6a59c5d6 EE NE PK
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.text_io.float_aux%s  a-tiflau.adb		a-tiflau.ali
+W system%s		system.ads		system.ali
+W system.fat_flt%s	s-fatflt.ads		s-fatflt.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W text_io%s		text_io.ads		text_io.ali
+
+D ada.ads		20070704142157 9c7dd3ea
+D a-calend.ads		20070704142158 979f5d2f
+D a-caldel.ads		20070704142158 c565f6eb
+D a-except.ads		20070704142157 d9ccb28d
+D a-finali.ads		20070704142159 2f48e141
+D a-filico.ads		20070704142159 9299732a
+D a-ioexce.ads		20070704142159 be0900a0
+D a-numeri.ads		20070704142158 1cf3e608
+D a-nuflra.ads		20070704142159 3fd6d45e
+D a-stream.ads		20070704142157 74337d1b
+D a-tags.ads		20070704142158 81dd2f9c
+D a-tags.adb		20070704142158 9bcd7865
+D a-textio.ads		20070704142159 bc58c967
+D a-tiflau.ads		20070704142157 ce2abdd4
+D a-tiflio.ads		20070704142158 5d91823c
+D a-tiflio.adb		20070704142158 e2036cd2
+D direccion_subasta.ads	20080609173617 13124169
+D interfac.ads		20070704142158 a69cad5c
+D i-c.ads		20070704142159 bc3ef662
+D i-cstrea.ads		20070704142158 85085d90
+D ofertas.ads		20080608035613 166e0d29
+D ofertas.adb		20080609173855 5ea9c0a6
+D semaforo_paquete.ads	20080607211711 52bab80d
+D system.ads		20080302052700 f14ecda8
+D s-atacco.ads		20070704142158 60789a20
+D s-crtl.ads		20070704142158 d74e5b9d
+D s-exctab.ads		20070704142159 e14b1567
+D s-fatflt.ads		20070704142157 f2e0c28f
+D s-fatgen.ads		20070704142159 df07f9b2
+D s-ficobl.ads		20070704142159 ed792749
+D s-finimp.ads		20070704142159 33c39bf7
+D s-finroo.ads		20070704142158 6f410d48
+D s-htable.ads		20070704142159 9598cfa4
+D s-imgint.ads		20070704142159 8222338e
+D s-osinte.ads		20070704142157 55fd3d67
+D s-parame.ads		20070704142158 6bd7b874
+D s-secsta.ads		20070704142157 db466d0c
+D s-soflin.ads		20070704142157 677820d8
+D s-stache.ads		20070704142159 07e06d0a
+D s-stausa.ads		20070704142159 5ff74994
+D s-stalib.ads		20070704142159 99eda53f
+D s-stoele.ads		20070704142159 f7e9ab3e
+D s-stoele.adb		20070704142159 a397f9ca
+D s-stratt.ads		20070704142159 63715cfd
+D s-strops.ads		20070704142159 92e79914
+D s-sopco3.ads		20070704142158 14cc5bf6
+D s-sopco4.ads		20070704142159 dca7f27b
+D s-sopco5.ads		20070704142159 63c5ad18
+D s-tasinf.ads		20070704142158 0891d67c
+D s-taspri.ads		20070704142159 5ce832d1
+D s-taskin.ads		20070704142159 63978922
+D s-taprob.ads		20070704142159 5cb38f61
+D s-tpoben.ads		20070704142158 4c2c41a9
+D s-tpobop.ads		20070704142158 87d72ec4
+D s-tasren.ads		20070704142159 02b02214
+D s-tassta.ads		20070704142159 2435ba65
+D s-traent.ads		20070704142157 9950c76b
+D s-unstyp.ads		20070704142158 b399198a
+D s-wchcon.ads		20070704142158 1705b980
+D s-wchstw.ads		20070704142159 6b782940
+D text_io.ads		20070704142158 7c37c8ff
+D unchconv.ads		20070704142159 34860a55
+X 1 ada.ads
+16K9*Ada 19e8 22|1r6 1r19 2r9 2r22
+X 8 a-numeri.ads
+16K13*Numerics 32e17 22|1r23 2r26
+X 9 a-nuflra.ads
+50K22*Float_Random 101e30 22|1w32 2r35
+54R9*Generator 22|7r28
+56F12*Uniformly_Distributed{float}
+58V13*Random{56F12} 22|32r44 49r103 54r82 60r64
+60U14*Reset 22|23r17 24r17 25r17
+X 13 a-textio.ads
+49K13*Text_IO 451e16 22|1w10 2r13
+167U14*New_Line 22|42r114 57r86
+243U14*Put 22|40r81 41r81 56r57
+264U14*Put_Line 22|33r49
+X 15 a-tiflio.ads
+47k21*Float_IO 90e25 21|6r32
+69U14*Put 22|42r81[21|6] 57r57[21|6]
+X 17 direccion_subasta.ads
+4K9*Direccion_Subasta 34e22 22|1w46 2r49
+8N9*CANT_OFERTAS_A_RECORDAR 22|37r79 38r109
+11i17*Ofertante{integer} 22|39r87 40r139 47r100
+12f17*Oferta{float} 22|42r96 49r94
+14A14*T_Ofertas(10R14) 22|9r25
+18i9*Indice_Ultima_Oferta{integer} 22|38r81 47r78 49r72
+20w9*Sem{23|3W24} 22|34r49 46r49 55r49 59r49
+26Y23 Recibir_Oferta 22|58r76
+27Y23 Consultar_Ultimas_Ofertas 22|35r76
+31t9*Martillero_Subasta{22T19} 22|35r57 58r57
+X 21 ofertas.ads
+4K9*Ofertas 18l5 18e12 22|4b14 68l5 68t12
+6K17*Real_IO[15|47] 6r53
+9N9*MAX_INTERVALO_ENTRE_OFERTAS 22|60r77
+10N9*MAX_INCREMENTO_OFERTA 22|49r114 54r93
+11N9*PROBILIDAD_CONSULTA 22|32r57
+13T19*Ofertante 16l13 16e22 22|6b19 66l13 66t22
+14Y23 Empezar 22|20b24 22l21 22t28
+14i31 Un_ID{integer} 22|21r31
+15Y23 Terminar 22|29b40
+X 22 ofertas.adb
+7r17 G1{9|54R9} 23r23 49r110 54r89
+7r20 G2{9|54R9} 24r23 60r71
+7r23 G3{9|54R9} 25r23 32r51
+8f17 Ultima_Propia{float} 49m49 54m49 54r66 57r61 58r95
+9a17 U_5_O{17|14A14} 35m106 39r76 40r128 42r85 47r72 49r66
+10b17 Hice_Ultima_Oferta{boolean} 47m49 53r48 64m25
+12b17 Consultar_Proxima_Vez{boolean} 32r80 51m49 58m110
+14b17 Ofertas{boolean} 35m113 36r60
+15i17 Aux{integer} 38m73 39r82 40r134 42r91
+16i17 ID{integer} 21m25 33r87 35r102 47r112 56r88 58r91
+18b17 Fin_Subasta{boolean} 31r38
+20i32 Un_ID{integer}
+37i69 i{integer} 38r102
+X 23 semaforo_paquete.ads
+4Y23 Wait 22|34r53 55r53
+5U27 Signal 22|46r53 59r53
+X 61 text_io.ads
+24K9*Text_IO=24:29 21|1w6 2r5
+

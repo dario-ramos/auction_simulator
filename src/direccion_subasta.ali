@@ -1,0 +1,136 @@
+V "GNAT Lib v4.2"
+P SS ZX
+R nnnnnnnvnnnnnnnvnvnnvvnnnnnnnnnnnnnnvvvnnnnnvnnnnnnnnnnvnnnnnv4nv5nv1nnnnnn
+
+U direccion_subasta%b	direccion_subasta.adb	540cb710 PK
+W ada%s			ada.ads			ada.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.string_ops_concat_3%s  s-sopco3.adb	s-sopco3.ali
+W system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+
+U direccion_subasta%s	direccion_subasta.ads	fdf03003 EE PK
+W ada%s			ada.ads			ada.ali
+W ada.exceptions%s	a-except.adb		a-except.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W ada.text_io.float_aux%s  a-tiflau.adb		a-tiflau.ali
+W semaforo_paquete%s	semaforo_paquete.adb	semaforo_paquete.ali
+W system%s		system.ads		system.ali
+W system.fat_flt%s	s-fatflt.ads		s-fatflt.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.parameters%s	s-parame.adb		s-parame.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.standard_library%s  s-stalib.adb	s-stalib.ali
+W system.task_info%s	s-tasinf.adb		s-tasinf.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+
+D ada.ads		20070704142157 9c7dd3ea
+D a-except.ads		20070704142157 d9ccb28d
+D a-finali.ads		20070704142159 2f48e141
+D a-filico.ads		20070704142159 9299732a
+D a-ioexce.ads		20070704142159 be0900a0
+D a-stream.ads		20070704142157 74337d1b
+D a-tags.ads		20070704142158 81dd2f9c
+D a-tags.adb		20070704142158 9bcd7865
+D a-textio.ads		20070704142159 bc58c967
+D a-tiflau.ads		20070704142157 ce2abdd4
+D a-tiflio.ads		20070704142158 5d91823c
+D a-tiflio.adb		20070704142158 e2036cd2
+D direccion_subasta.ads	20080609173617 13124169
+D direccion_subasta.adb	20080609174317 fb463f1e
+D interfac.ads		20070704142158 a69cad5c
+D i-c.ads		20070704142159 bc3ef662
+D i-cstrea.ads		20070704142158 85085d90
+D semaforo_paquete.ads	20080607211711 52bab80d
+D system.ads		20080302052700 f14ecda8
+D s-atacco.ads		20070704142158 60789a20
+D s-crtl.ads		20070704142158 d74e5b9d
+D s-exctab.ads		20070704142159 e14b1567
+D s-fatflt.ads		20070704142157 f2e0c28f
+D s-fatgen.ads		20070704142159 df07f9b2
+D s-ficobl.ads		20070704142159 ed792749
+D s-finimp.ads		20070704142159 33c39bf7
+D s-finroo.ads		20070704142158 6f410d48
+D s-htable.ads		20070704142159 9598cfa4
+D s-imgint.ads		20070704142159 8222338e
+D s-osinte.ads		20070704142157 55fd3d67
+D s-parame.ads		20070704142158 6bd7b874
+D s-secsta.ads		20070704142157 db466d0c
+D s-soflin.ads		20070704142157 677820d8
+D s-stache.ads		20070704142159 07e06d0a
+D s-stausa.ads		20070704142159 5ff74994
+D s-stalib.ads		20070704142159 99eda53f
+D s-stoele.ads		20070704142159 f7e9ab3e
+D s-stoele.adb		20070704142159 a397f9ca
+D s-stratt.ads		20070704142159 63715cfd
+D s-strops.ads		20070704142159 92e79914
+D s-sopco3.ads		20070704142158 14cc5bf6
+D s-sopco4.ads		20070704142159 dca7f27b
+D s-sopco5.ads		20070704142159 63c5ad18
+D s-tasinf.ads		20070704142158 0891d67c
+D s-taspri.ads		20070704142159 5ce832d1
+D s-taskin.ads		20070704142159 63978922
+D s-taprob.ads		20070704142159 5cb38f61
+D s-tpoben.ads		20070704142158 4c2c41a9
+D s-tasren.ads		20070704142159 02b02214
+D s-tassta.ads		20070704142159 2435ba65
+D s-traent.ads		20070704142157 9950c76b
+D s-unstyp.ads		20070704142158 b399198a
+D s-wchcon.ads		20070704142158 1705b980
+D s-wchstw.ads		20070704142159 6b782940
+D unchconv.ads		20070704142159 34860a55
+X 1 ada.ads
+16K9*Ada 19e8 13|1r24 2r23 14|1r6 2r9
+X 9 a-textio.ads
+49K13*Text_IO 451e16 13|1w28 2r27 14|1w10 2r13
+243U14*Put 14|14r17 58r17
+264U14*Put_Line 14|13r17 16r17 17r18 21r41 31r49 33r49 48r57 51r57 61r17
+X 11 a-tiflio.ads
+47k21*Float_IO 90e25 13|6r32
+69U14*Put 14|15r17[13|6] 60r17[13|6]
+X 13 direccion_subasta.ads
+4K9*Direccion_Subasta 34l5 34e22 14|4b14 64l5 64t22
+6K17*Real_IO[11|47] 6r53
+8N9*CANT_OFERTAS_A_RECORDAR 14r36 14|42r104
+10R14*T_Oferta 13e19 14r66
+11i17*Ofertante{integer} 14|44r89 58r111
+12f17*Oferta{float} 14|10r65 15r61 41r84 43r89 60r61
+14A14*T_Ofertas(10R14) 17r29 27r76 14|29r92
+16i9*Duracion{integer} 14|11m25 17r89
+17a9*Ultimas_5_Ofertas{14A14} 14|10m25 15r21 35r50 41r44 43m49 44m49 58r71
+. 60r21
+18i9*Indice_Ultima_Oferta{integer} 14|10r43 15r39 41r62 42m49 42r74 43r67
+. 44r67 58r89 60r39
+20w9*Sem{18|3W24}
+22T19*Martillero 28l13 28e23 31r30 14|6b19 62l13 62t23
+23Y23 Empezar 14|9b24 12l21 12t28
+23f31 Precio{float} 14|10r75
+23i47 Tiempo{integer} 14|11r37
+24Y23 A_Las 14|20b40 24l37 24t42
+25Y23 Terminar 14|26b40
+26Y23 Recibir_Oferta 14|39b40 55l37 55t51
+26i38 ID{integer} 14|44r102 48r114 51r114
+26f52 Oferta{float} 14|41r93 43r99
+26b68 Consultar_Proxima_Vez{boolean} 14|49m57 52m57
+27Y23 Consultar_Ultimas_Ofertas 14|29b40 37l37 37t62
+27i49 ID{integer} 14|31r109 33r109
+27a64 U_5_O{14A14} 14|35m41
+27b87 Ofertas{boolean} 14|36m41
+31t9*Martillero_Subasta{22T19}
+32b9*Fin_Subasta{boolean} 14|23m41 41r108 47r52
+X 14 direccion_subasta.adb
+7b17 Hay_Ofertas{boolean} 30r48 36r52 45m49
+9f32 Precio{float}
+9i49 Tiempo{integer}
+29i66 ID{integer}
+29a80 U_5_O{13|14A14}
+29b103 Ofertas{boolean}
+39i55 ID{integer}
+39f69 Oferta{float}
+39b83 Consultar_Proxima_Vez{boolean}
+X 18 semaforo_paquete.ads
+1K9*Semaforo_Paquete 13|1w6 2r5 18|11e21
+3W24*Semaforo 13|20r15 18|9e21
+

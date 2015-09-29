@@ -1,0 +1,129 @@
+V "GNAT Lib v4.2"
+M P W=b
+P SS ZX
+R nnnnnvvvnnnnnnnnnnnvvvnnnvnnnnnnnnvnvnvnnnvnvnnnnnnnnnnnnnnnnnnnnv1+nnnnnn
+
+U casa_subasta%b	casa_subasta.adb	39726a4c NE SU
+W ada%s			ada.ads			ada.ali
+W ada.calendar%s	a-calend.adb		a-calend.ali
+W ada.calendar.delays%s	a-caldel.adb		a-caldel.ali
+W ada.command_line%s	a-comlin.adb		a-comlin.ali
+W ada.numerics%s	a-numeri.ads		a-numeri.ali
+W ada.numerics.float_random%s  a-nuflra.adb	a-nuflra.ali
+W ada.text_io%s		a-textio.adb		a-textio.ali
+W direccion_subasta%s	direccion_subasta.adb	direccion_subasta.ali
+W ofertas%s		ofertas.adb		ofertas.ali
+W system%s		system.ads		system.ali
+W system.img_int%s	s-imgint.adb		s-imgint.ali
+W system.secondary_stack%s  s-secsta.adb	s-secsta.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.rendezvous%s  s-tasren.adb	s-tasren.ali
+W system.tasking.stages%s  s-tassta.adb		s-tassta.ali
+W system.val_int%s	s-valint.adb		s-valint.ali
+W system.val_real%s	s-valrea.adb		s-valrea.ali
+
+D ada.ads		20070704142157 9c7dd3ea
+D a-calend.ads		20070704142158 979f5d2f
+D a-caldel.ads		20070704142158 c565f6eb
+D a-comlin.ads		20070704142159 3b71d99c
+D a-except.ads		20070704142157 d9ccb28d
+D a-finali.ads		20070704142159 2f48e141
+D a-filico.ads		20070704142159 9299732a
+D a-ioexce.ads		20070704142159 be0900a0
+D a-numeri.ads		20070704142158 1cf3e608
+D a-nuflra.ads		20070704142159 3fd6d45e
+D a-stream.ads		20070704142157 74337d1b
+D a-tags.ads		20070704142158 81dd2f9c
+D a-tags.adb		20070704142158 9bcd7865
+D a-textio.ads		20070704142159 bc58c967
+D a-tiflio.ads		20070704142158 5d91823c
+D casa_subasta.adb	20080609172140 136ebf86
+D direccion_subasta.ads	20080609173617 13124169
+D interfac.ads		20070704142158 a69cad5c
+D i-c.ads		20070704142159 bc3ef662
+D i-cstrea.ads		20070704142158 85085d90
+D ofertas.ads		20080608035613 166e0d29
+D semaforo_paquete.ads	20080607211711 52bab80d
+D system.ads		20080302052700 f14ecda8
+D s-atacco.ads		20070704142158 60789a20
+D s-crtl.ads		20070704142158 d74e5b9d
+D s-exctab.ads		20070704142159 e14b1567
+D s-ficobl.ads		20070704142159 ed792749
+D s-finimp.ads		20070704142159 33c39bf7
+D s-finroo.ads		20070704142158 6f410d48
+D s-htable.ads		20070704142159 9598cfa4
+D s-imgint.ads		20070704142159 8222338e
+D s-osinte.ads		20070704142157 55fd3d67
+D s-parame.ads		20070704142158 6bd7b874
+D s-secsta.ads		20070704142157 db466d0c
+D s-soflin.ads		20070704142157 677820d8
+D s-stache.ads		20070704142159 07e06d0a
+D s-stausa.ads		20070704142159 5ff74994
+D s-stalib.ads		20070704142159 99eda53f
+D s-stoele.ads		20070704142159 f7e9ab3e
+D s-stoele.adb		20070704142159 a397f9ca
+D s-stratt.ads		20070704142159 63715cfd
+D s-tasinf.ads		20070704142158 0891d67c
+D s-taspri.ads		20070704142159 5ce832d1
+D s-taskin.ads		20070704142159 63978922
+D s-taprob.ads		20070704142159 5cb38f61
+D s-tpoben.ads		20070704142158 4c2c41a9
+D s-tasren.ads		20070704142159 02b02214
+D s-tassta.ads		20070704142159 2435ba65
+D s-traent.ads		20070704142157 9950c76b
+D s-unstyp.ads		20070704142158 b399198a
+D s-valint.ads		20070704142158 70811f54
+D s-valrea.ads		20070704142159 3acf85c2
+D s-wchcon.ads		20070704142158 1705b980
+D s-wchstw.ads		20070704142159 6b782940
+D text_io.ads		20070704142158 7c37c8ff
+D unchconv.ads		20070704142159 34860a55
+X 1 ada.ads
+16K9*Ada 19e8 16|1r34 1r47 1r65 1r79 2r37 2r50 2r68 2r82
+X 2 a-calend.ads
+38K13*Calendar 130e17 16|1w69 2r72
+40O9*Time 16|15r29
+52V13*Clock{40O9} 16|28r30 33r15
+86V13*"+"{40O9} 16|28r36
+91V13*"<"{boolean} 16|33r21
+X 4 a-comlin.ads
+38K13*Command_Line 136e21 16|1w51 2r54
+41V13*Argument_Count{natural} 16|18r12
+48V13*Argument{string} 16|24r39 25r41
+X 9 a-numeri.ads
+16K13*Numerics 32e17 16|1r83 2r86
+X 10 a-nuflra.ads
+50K22*Float_Random 101e30 16|1w92 2r95
+54R9*Generator 16|16r13
+56F12*Uniformly_Distributed{float}
+58V13*Random{56F12} 16|37r32
+60U14*Reset 16|31r9
+X 14 a-textio.ads
+49K13*Text_IO 451e16 16|1w38 2r41
+X 16 casa_subasta.adb
+4U11*Casa_Subasta 4b11 54l5 54t17
+6N9 SEGUNDOS_EN_UN_MINUTO 28r63 37r86 40r33
+7N9 PRECIO_POR_DEFECTO 19r27
+8N9 DURACION_POR_DEFECTO 20r27
+9N9 MAX_CANT_OFERTANTES 11r34 33r63 37r50 44r41 49r23
+11a9 Ofertantes(21|13T19) 35r17 45r17 46r17 50r17
+12f9 Precio{float} 19m17 24m17 29r36
+13i9 Tiempo{integer} 20m17 25m17 28r53 29r45 37r78 40r24
+14i9 Cant_Ofertantes{natural} 33r45 34m17 34r36 35r28 35r53 44r18
+15o9 Hora_Finalizacion{2|40O9} 28m9 33r23
+16r9 G{10|54R9} 31r15 37r39
+44i13 i{integer} 45r28 45r39 46r28
+49i13 i{integer} 50r28
+X 17 direccion_subasta.ads
+4K9*Direccion_Subasta 16|1w6 2r9 17|34e22
+23Y23 Empezar 16|29r28
+24Y23 A_Las 16|41r28
+25Y23 Terminar 16|53r28
+31t9*Martillero_Subasta{22T19} 16|29r9 41r9 53r9
+X 21 ofertas.ads
+4K9*Ofertas 16|1w25 2r28 21|18e12
+13T19*Ofertante 16|11r58 21|16e22
+14Y23 Empezar 16|35r45 45r31
+15Y23 Terminar 16|46r31 50r31
+

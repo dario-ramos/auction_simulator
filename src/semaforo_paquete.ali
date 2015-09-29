@@ -1,0 +1,62 @@
+V "GNAT Lib v4.2"
+P SS ZX
+R vnnnnnnnnnnnnnnvnvnnnnvnnnnnnnnvnnnnnnvnnnnnnnnnnnnnnnnnnnnv1nnnnnnnnnnnn
+
+U semaforo_paquete%b	semaforo_paquete.adb	03d842ab NE PK
+W system.tasking.protected_objects.operations%s  s-tpobop.adb  s-tpobop.ali
+
+U semaforo_paquete%s	semaforo_paquete.ads	52bab80d EE NE PK
+W system%s		system.ads		system.ali
+W system.finalization_implementation%s  s-finimp.adb  s-finimp.ali
+W system.finalization_root%s  s-finroo.adb	s-finroo.ali
+W system.soft_links%s	s-soflin.adb		s-soflin.ali
+W system.tasking%s	s-taskin.adb		s-taskin.ali
+W system.tasking.protected_objects%s  s-taprob.adb  s-taprob.ali
+W system.tasking.protected_objects.entries%s  s-tpoben.adb  s-tpoben.ali
+
+D ada.ads		20070704142157 9c7dd3ea
+D a-except.ads		20070704142157 d9ccb28d
+D a-finali.ads		20070704142159 2f48e141
+D a-filico.ads		20070704142159 9299732a
+D a-stream.ads		20070704142157 74337d1b
+D a-tags.ads		20070704142158 81dd2f9c
+D a-tags.adb		20070704142158 9bcd7865
+D interfac.ads		20070704142158 a69cad5c
+D i-c.ads		20070704142159 bc3ef662
+D semaforo_paquete.ads	20080607211711 52bab80d
+D semaforo_paquete.adb	20080607193734 5162faa6
+D system.ads		20080302052700 f14ecda8
+D s-atacco.ads		20070704142158 60789a20
+D s-exctab.ads		20070704142159 e14b1567
+D s-finimp.ads		20070704142159 33c39bf7
+D s-finroo.ads		20070704142158 6f410d48
+D s-htable.ads		20070704142159 9598cfa4
+D s-osinte.ads		20070704142157 55fd3d67
+D s-parame.ads		20070704142158 6bd7b874
+D s-secsta.ads		20070704142157 db466d0c
+D s-soflin.ads		20070704142157 677820d8
+D s-stache.ads		20070704142159 07e06d0a
+D s-stausa.ads		20070704142159 5ff74994
+D s-stalib.ads		20070704142159 99eda53f
+D s-stoele.ads		20070704142159 f7e9ab3e
+D s-stoele.adb		20070704142159 a397f9ca
+D s-stratt.ads		20070704142159 63715cfd
+D s-tasinf.ads		20070704142158 0891d67c
+D s-taspri.ads		20070704142159 5ce832d1
+D s-taskin.ads		20070704142159 63978922
+D s-taprob.ads		20070704142159 5cb38f61
+D s-tpoben.ads		20070704142158 4c2c41a9
+D s-tpobop.ads		20070704142158 87d72ec4
+D s-traent.ads		20070704142157 9950c76b
+D s-unstyp.ads		20070704142158 b399198a
+D s-wchcon.ads		20070704142158 1705b980
+D s-wchstw.ads		20070704142159 6b782940
+D unchconv.ads		20070704142159 34860a55
+X 10 semaforo_paquete.ads
+1K9*Semaforo_Paquete 11l5 11e21 11|1b14 23l5 23t21
+3W24*Semaforo 9l13 9e21 11|3b24 21l13 21t21
+4Y23 Wait 11|4b23 7l13 7t17
+5U27 Signal 11|9b19 14l13 14t19
+6V26 Get_Valor{natural} 11|16b18 19l21 19t30
+8i17 Valor{natural} 11|4r33 6r17 6r26 11r20 12r25 12r34 18r32
+

@@ -1,0 +1,19 @@
+project TP_2 is
+
+   for Source_Dirs use ("C:\Documents and Settings\Chajari\");
+   for Object_Dir use "C:\Documents and Settings\Chajari\";
+
+   package Builder is
+      for Default_Switches ("Ada") use ("-g");
+   end Builder;
+
+   package Compiler is
+      for Default_Switches ("Ada") use ("-g");
+   end Compiler;
+
+   package Binder is
+      for Default_Switches ("Ada") use ("-g");
+   end Binder;
+
+end TP_2;
+
